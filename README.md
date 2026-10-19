@@ -8,7 +8,7 @@ Corsa with lfs-track-builder.
 ## What you need
 
 - Live for Speed.
-- The lfs-custom-track DLL (`dsound.dll` next to `LFS.exe`): the latest from the Discord server.
+- The lfs-custom-track DLL (`dsound.dll` next to `LFS.exe`): the latest from the Discord server
 
 ## Versions
 
